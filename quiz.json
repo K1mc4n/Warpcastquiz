@@ -1,0 +1,156 @@
+{
+  "shortDescription": "Test your knowledge of base network and bitcoin.",
+  "questions": [
+    {
+      "question": "What is Bitcoin?",
+      "answers": ["Currency", "Food", "Animal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Bitcoin?",
+      "answers": ["Nakamoto", "Buterin", "Dorsey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a blockchain?",
+      "answers": ["Database", "Network", "Device"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does BTC stand for?",
+      "answers": ["Bitcoin", "Bitcode", "Bittime"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is mining?",
+      "answers": ["Creating", "Selling", "Sending"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a node?",
+      "answers": ["Device", "Person", "App"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a wallet?",
+      "answers": ["Storage", "Miner", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a hash?",
+      "answers": ["Function", "Coin", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ethereum?",
+      "answers": ["Platform", "Coin", "Protocol"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Agreement", "Node", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Lightning Network?",
+      "answers": ["Protocol", "Coin", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a fork?",
+      "answers": ["Change", "Coin", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a public key?",
+      "answers": ["Address", "Wallet", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a private key?",
+      "answers": ["Password", "Coin", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": ["Finance", "Mining", "Storage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Proof of Work?",
+      "answers": ["Algorithm", "Wallet", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Proof of Stake?",
+      "answers": ["Consensus", "Wallet", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DApp?",
+      "answers": ["App", "Coin", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas fee?",
+      "answers": ["Cost", "Coin", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is staking?",
+      "answers": ["Holding", "Mining", "Sending"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an ICO?",
+      "answers": ["Offering", "Wallet", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is HODL?",
+      "answers": ["Holding", "Mining", "Selling"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Satoshi?",
+      "answers": ["Creator", "Unit", "Coin"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is an altcoin?",
+      "answers": ["Coin", "Protocol", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is FOMO?",
+      "answers": ["Emotion", "Node", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an exchange?",
+      "answers": ["Market", "Wallet", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a ledger?",
+      "answers": ["Record", "Coin", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is decentralized?",
+      "answers": ["Distributed", "Central", "Private"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a transaction?",
+      "answers": ["Transfer", "Mining", "Storage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Have you followed @watchcoin?",
+      "answers": ["Yes", "No", "Soon"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
+
