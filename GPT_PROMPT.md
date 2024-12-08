@@ -1,6 +1,6 @@
 # GPT Prompt
 
-Come up with entertaining quiz content for topic: **[YOUR_TOPIC]**.
+Come up with entertaining quiz content for topic: **[WARPCAST QUIZ]**.
 
 It is highly important to follow these rules during quiz creation:
 - No more than 60 symbols for the description.
